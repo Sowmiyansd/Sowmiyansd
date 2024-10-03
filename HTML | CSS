@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>nptel examinations</title>
+    <link rel="icon" href="nptel.jpg">
+    <link rel="stylesheet" href="nptel.css">
+    
+</head>
+<body>
+    <div class="header">
+    <center>
+        <h1>Welcome To NPTEL</h1>
+    <p><a href="https://nptel.ac.in/">click here for more details</a></p>
+    </center>
+    <div class="items">
+        <img src="nptel.jpg" height="90" width="100">
+        <ul>
+            <li><a href="#">HOME</a></li>
+            <li><a href="#">ABOUT US</a></li>
+            <li><a href="#">REGISTER</a></li>
+        </ul>
+    </div>
+    </div>
